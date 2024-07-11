@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeesooha&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeesooha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeesooha&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeesooha&layout=compact" alt="Top Langs" style="width: 48%;">
+</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suha630)](https://solved.ac/백준아이디/)
