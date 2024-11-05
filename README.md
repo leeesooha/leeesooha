@@ -1,25 +1,14 @@
 ## Hi there 👋
 
-<!--
-**leeesooha/leeesooha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeesooha&layout=compact" alt="Top Langs" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeesooha&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 48%;">
-</div>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suha630)](https://solved.ac/백준아이디/)
+<table style="border: 1px solid #ddd; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <a href="https://solved.ac/suha630">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suha630" alt="Solved.ac Profile" />
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeesooha&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
