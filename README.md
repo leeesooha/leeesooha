@@ -46,7 +46,7 @@
 #### 🧭 [Where42](https://github.com/42organization/Where42)
 - 42서울 학생들의 위치를 실시간으로 표시하는 서비스
 - Java Spring Boot 기반 API 서버 개발 참여
-- PostgreSQL, Redis, AWS EC2, Jenkins, Grafana 등 실 서비스 운영 경험
+- PostgreSQL, Redis, AWS EC2, Grafana 등 실 서비스 운영 경험
 
 ---
 
