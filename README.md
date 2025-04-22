@@ -19,7 +19,6 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker Compose-1488C6?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white"/>
 </p>
