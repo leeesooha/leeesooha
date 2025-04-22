@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=Restful&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 </p>
 
 #### 🐳 DevOps & Cloud
