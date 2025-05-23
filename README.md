@@ -47,7 +47,7 @@
 - PostgreSQL, Redis, AWS EC2, Grafana 등 실 서비스 운영 경험
 
 #### 🐳 [Inception](https://github.com/leeesooha/Inception)
-- Docker 및 docker-compose를 이용한 LEMP 기반 인프라 구축 프로젝트
+- Docker 및 docker-compose를 이용한 인프라 구축 프로젝트
 - Nginx, WordPress, MariaDB를 각각 컨테이너화하고 네트워크 분리 및 TLS 인증서 적용
 - OpenSSL 기반 HTTPS 구성, 데이터 볼륨 마운트로 영속성 확보
 - Makefile을 통한 인프라 자동화 및 .env 파일을 통한 보안 정보 분리 설계 경험
