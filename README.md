@@ -34,7 +34,7 @@
 ### 🔧 주요 프로젝트
 
 #### 🖥️ [webserv](https://github.com/Webserv213/webserv)
-- C++로 만든 웹 서버 (nginx 클론)
+- C++로 만든 정적 웹 서버 
 - HTTP 요청/응답, CGI, 소캣프로그래밍 기반 구현
 
 #### 💻 [minishell](https://github.com/leeesooha/minishell_0422)
