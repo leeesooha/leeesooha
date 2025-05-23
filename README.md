@@ -35,7 +35,7 @@
 
 #### 🖥️ [webserv](https://github.com/Webserv213/webserv)
 - C++로 만든 웹 서버 (nginx 클론)
-- HTTP 요청/응답, CGI, 멀티프로세싱 기반 구현
+- HTTP 요청/응답, CGI, 소캣프로그래밍 기반 구현
 
 #### 💻 [minishell](https://github.com/leeesooha/minishell_0422)
 - Shell 구현
