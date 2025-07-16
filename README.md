@@ -57,6 +57,7 @@
 ### 🎓 학습 이력
 
 - 💻 **42SEOUL** (2022.11 ~ 2024.11): C/C++ 기반 시스템 프로그래밍, 프로젝트 중심의 실전 학습
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeesooha&show_icons=true&theme=radical)
 
 ---
 
