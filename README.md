@@ -43,8 +43,3 @@ C 기반 Shell 구현 (파이프, redirection, 환경 변수, built-in 명령어
 
 ### 💬 연락처
 - 📫 Email: dltngk630@gmail.com
-
----
-
-함께 성장하며 협업을 중요하게 생각하는 개발자가 되겠습니다.  
-읽어주셔서 감사합니다! 🙇‍♂️
