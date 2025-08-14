@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 기술 스택
-Java, Spring Boot, JPA, REST API, PostgreSQL, MariaDB, Docker, Docker Compose, AWS EC2, AWS RDS, Redis, Grafana
+Java, Spring Boot, JPA, MySql, Docker
 
 ---
 
